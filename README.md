@@ -1,7 +1,6 @@
 ### 👋 Hi there!  I'm Andy!
-I am a full-stack developer who enjoys to build things! If you are interested in seeing what projects I have worked on, you can use the links below!
+I am a full-stack developer who enjoys building things! If you are interested in seeing what projects I have worked on, you can use the links below!
 
-<br>
 
 💻 [Here are the projects that I worked on in 2019](https://andytruongcs.medium.com/my-developer-journey-2019-7c56b874eb07)
 <br>
