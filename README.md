@@ -1,7 +1,12 @@
-### 👋 Hi there!  I'm Andy!
-I am a full-stack developer who enjoys building things! If you are interested in seeing what projects I have worked on, you can use the links below!
+### 👋 Hi there! I'm Andy!
 
+I am a full-stack developer who enjoys building things!
 
-💻 [Here are the projects that I worked on in 2019](https://andytruongcs.medium.com/my-developer-journey-2019-7c56b874eb07)
-<br>
-💻 [Here are the projects that I worked on in 2020](https://andytruongcs.medium.com/my-developer-journey-2020-c8bea22cb231)
+---
+
+### 🛠️ Projects
+
+| Project | Description |
+|--------|-------------|
+| [Personal Website](https://www.andytruong.dev/) | My Website where you can learn more about me! |
+| [Bill Splitter](https://billsplitter.andystechtutorials.dev/) | Easily split bills with your friends |
