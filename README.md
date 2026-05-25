@@ -9,7 +9,7 @@ I am a full-stack developer who enjoys building things!
 | Name | Description |
 |--------|-------------|
 | [Personal Website](https://www.andytruong.dev/) | My Website where you can learn more about me! |
-| [Andy's Tech Tutorials](https://www.youtube.com/c/andystechtutorials) | My Softwaren Engineering Youtube Channel |
+| [Andy's Tech Tutorials](https://www.youtube.com/c/andystechtutorials) | My Software Engineering Youtube Channel |
 
 ### 📱 Apps
 
