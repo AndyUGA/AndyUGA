@@ -16,3 +16,4 @@ I am a full-stack developer who enjoys building things!
 | Name | Description |
 |--------|-------------|
 | [Bill Splitter](https://billsplitter.andystechtutorials.dev/) | Easily split bills with your friends |
+| [Trending Movies and TV Shows](https://trending.andytruong.dev/) | See the latest trending movies and TV shows |
